@@ -1,0 +1,5 @@
+:: TDE_indicators__cmd_deployment.txt
+
+copy "TDE_indicators.dll" "C:\Users\%username%\AppData\Roaming\ATAS\Indicators\TDE_indicators.dll" /Y
+
+PAUSE
